@@ -1,6 +1,6 @@
 <br clear="both">
 
-<p align="center">Unveiling Insights Through Data: Crafting Intelligence from Every Byte</p>
+<h2 align="center">Unveiling Insights Through Data: Crafting Intelligence from Every Byte</h2>
 
 ###
 
@@ -39,6 +39,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Karan-Ghatt/Karan-Ghatt/output/snake.svg" alt="Snake animation" />
 
